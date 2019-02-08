@@ -1,0 +1,6 @@
+/Users/ayana/Documents/PP2/Week1/Task3/ooops/obj/x86/Debug/ooops.csprojAssemblyReference.cache
+/Users/ayana/Documents/PP2/Week1/Task3/ooops/obj/x86/Debug/ooops.csproj.CoreCompileInputs.cache
+/Users/ayana/Documents/PP2/Week1/Task3/ooops/bin/Debug/ooops.exe
+/Users/ayana/Documents/PP2/Week1/Task3/ooops/bin/Debug/ooops.pdb
+/Users/ayana/Documents/PP2/Week1/Task3/ooops/obj/x86/Debug/ooops.exe
+/Users/ayana/Documents/PP2/Week1/Task3/ooops/obj/x86/Debug/ooops.pdb
